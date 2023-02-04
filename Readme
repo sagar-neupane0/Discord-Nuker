@@ -1,0 +1,6 @@
+a simple discord nuker bot made using discord.py
+
+first install all the requirements necessary.
+change your token in .env file without any " " or ' '.
+
+bot cmds: Tag the bot to nuke the server or carry out other commands [@originalassface n ]
