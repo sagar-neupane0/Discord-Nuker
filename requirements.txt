@@ -1,0 +1,6 @@
+install python from microsoft store or offical website
+
+install these modules via python
+
+pip install discord.py
+pip install python-dotenv
