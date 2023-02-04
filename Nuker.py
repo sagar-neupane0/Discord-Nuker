@@ -2,8 +2,6 @@ import discord
 from discord.ext import commands
 from discord.ext.commands import bot
 from dotenv import load_dotenv
-import time
-import random
 import os
 from discord import app_commands
 
